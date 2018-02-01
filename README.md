@@ -1,2 +1,2 @@
-# mock_api_django_rest
+# Api_django_rest
 mock_api
